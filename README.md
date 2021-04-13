@@ -2,7 +2,7 @@ This was made as a project for my Semester IV course Open Source Technology Lab.
 
 Virtual Assistant
 =============
-This is a voice-recognition based virtual assistant that listens to users queries, analyzes the command and responds accordingly.
+This is a voice-recognition based virtual assistant made in python that listens to users queries, analyzes the command and responds accordingly.
 
 The assistant can answer general queries like "Who is Albert Einstein?" or "What is the weather forecast today?"
 
