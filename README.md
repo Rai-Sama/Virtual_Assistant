@@ -51,3 +51,7 @@ This module was added to help get statistics on Covid cases in India (The suppor
 
 ### Chess.py and GUI.py ###
 These are the chess game modules mentioned in FileExploration Section.
+
+Flowchart
+=============
+![Flowchart](https://user-images.githubusercontent.com/48092867/114603877-e16d9180-9cb5-11eb-8523-4649ec916c74.png)
