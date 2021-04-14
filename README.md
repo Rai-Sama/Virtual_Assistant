@@ -6,7 +6,7 @@ This is a voice-recognition based virtual assistant made in python that listens 
 
 The assistant can answer general queries like "Who is Albert Einstein?" or "What is the weather forecast today?"
 
-The assistant can also solve almost any mathematical queries utilizing the WolframAlpha API. 
+The assistant can also solve mathematical queries utilizing the WolframAlpha API. 
 
 The Assistant can understand and speak all 108 languages Google Translate supports.
 
