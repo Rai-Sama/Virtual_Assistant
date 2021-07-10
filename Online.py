@@ -117,8 +117,8 @@ def emailing(language):
 
 def search_wolf(query, language):
 
-    client = wolframalpha.Client('RYPE58-U2WPEH98QP')
-
+    client = wolframalpha.Client('enter your api key')
+    # A Wolfram Alpha api key is fairly easy to get just make an account and go to the api section
     result = client.query(query)
     try:
         output = next(result.results).text
@@ -132,7 +132,7 @@ def search_wolf(query, language):
 
 def weather(language):
 
-    client = wolframalpha.Client('RYPE58-U2WPEH98QP')
+    client = wolframalpha.Client('enter your api key here')
 
     assistant_talks("Where do you want the weather forecast of?", language)
     result = client.query("Weather forecast for" + speak_free())
