@@ -1,4 +1,4 @@
-This was made as a project for my Semester IV course Open Source Technology Lab.
+I made this as a project for the course "Open Source Technology Lab" of semester-4 of B.E.
 
 Virtual Assistant
 =============
